@@ -1,0 +1,11 @@
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\UnityEditor.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\UnityEngine.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\Mono.Cecil.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\nunit.framework.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\Unity.DataContract.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Users\Jeremy-SSDOS\Desktop\Avert\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Users\Jeremy-SSDOS\Desktop\Avert\obj\Debug\Assembly-CSharp-firstpass.pdb
